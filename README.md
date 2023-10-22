@@ -1,5 +1,12 @@
 # Spam SMS Detection Project
 
+![Screenshot 2023-10-22 080859](https://github.com/NiShApOkHaReL/Spam-SMS-Classifier/assets/107798171/11d1440f-9bbe-4974-8ebb-e931aaface6d)
+
+
+
+![Screenshot 2023-10-22 081032](https://github.com/NiShApOkHaReL/Spam-SMS-Classifier/assets/107798171/3c89c4ea-7589-4269-9505-4159bbd16594)
+
+
 ## Overview
 This project is focused on developing a machine learning model for the detection of spam and ham (non-spam) SMS messages. The project covers key steps such as data cleaning, exploratory data analysis (EDA), text preprocessing, model building, evaluation, and performance comparison among various machine learning algorithms.
 

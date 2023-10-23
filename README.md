@@ -47,3 +47,40 @@ This project is focused on developing a machine learning model for the detection
 
 This project offers a comprehensive approach to building a spam SMS detection system and serves as a valuable guide for similar text classification tasks.
 
+
+## Usage
+
+To use the SMS Spam Detection application, follow these simple steps:
+
+
+1. **Clone the project:**  
+   Clone this repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/GarimaPaudel/Spam-SMS-Classifier.git
+
+2. **Navigate to the project directory:**
+
+    Open your Command Prompt or terminal and navigate to the directory where you saved the project.
+
+3. **Run the application:**
+
+    Type the following command to start the application :
+
+    ```bash
+    streamlit run app.py
+    ```
+
+4. **Explore the application:**
+    You will now be redirected to the page in your web browser, where you can see a user-friendly interface.
+
+5. **Enter SMS message:**
+    In the text box provided, enter the SMS message that you want to check for spam. You can copy and paste the message from your device.And click on the predict button.
+
+6.  **View the result:**
+    You will receive a result that indicates whether the entered SMS message is spam or not. If it's spam, the application will inform you of the spam status.
+
+7. **Repeat as needed:**
+You can repeat the process for any SMS message you want to check. The application will quickly and easily determine whether the message is spam.
+
+Enjoy using this application to identify and filter out spam messages from your SMS inbox, helping you maintain a clean and safe messaging experience.

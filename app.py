@@ -15,7 +15,17 @@ model = pickle.load(open('model.pkl','rb'))
 
 st.title("Email/SMS Spam Classifier")
 
-input_sms = st.text_input("Enter the message")
+st.markdown("""
+<style>
+    input[type="text"] {
+        height: 100px;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+input_sms = st.text_input("Enter the message", value="", key="message_input", type="default")
+
+# input_sms = st.text_input("Enter the message",height=100)
 
 
 # Define a function to perform text transformation

@@ -1,6 +1,6 @@
 # Spam SMS Detection Project
 
-Screenshot Added
+Screenshot:
 
 ![Screenshot 2023-10-22 080859](https://github.com/NiShApOkHaReL/Spam-SMS-Classifier/assets/107798171/11d1440f-9bbe-4974-8ebb-e931aaface6d)
 
